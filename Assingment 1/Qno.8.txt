@@ -1,0 +1,7 @@
+8.Wrapping data and its related functionality into a single entity is known as _____________
+a) Abstraction
+b) Encapsulation
+c) Polymorphism
+d) Modularity
+
+ans:b) Encapsulation
